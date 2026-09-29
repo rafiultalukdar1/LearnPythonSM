@@ -13,3 +13,15 @@ print(isinstance(10, float))
 # int to float
 n = float(x)
 print(n)
+
+# complex
+m = complex(input('Enter your complex number : '))
+
+print(m)
+
+# Boolean
+manik = True
+ratan = False
+
+print('Manik :', manik)
+print('Ratan :', ratan)
